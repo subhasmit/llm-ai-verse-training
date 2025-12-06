@@ -1,0 +1,6 @@
+# CODEOWNERS file for LLM AI Verse Training repository
+# These owners will be requested for review when someone opens a pull request.
+# Learn more: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owner for all files in the repository
+* @subhasmit
